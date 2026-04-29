@@ -26,10 +26,10 @@ Copy the plugin Installation-Existing-Users/gralog-max-flow folder to your gralo
 
 For those new to GrALoG, a precompiled "gralog-fx.jar" file is available for Linux, Windows and MacOS.
 
-After installing Gralog, copy the contents of the appropriate distribution folder for your OS, Installation-New/dist-{OS} to the build/dist/ folder with-in the gralog root folder, the folder that contains gradlew and gradlew.bat files.
+You do not need to install Gralog, simply copy the contents of the appropriate distribution folder for your OS, Installation-New/dist-{OS} to a suitable folder.
 
-1. Copy contents of Installation-New/dist-{OS} folder into build/dist/
-2. Navigate to the gralog-fx.jar file in \build\dist\
+1. Copy contents of Installation-New/dist-{OS} folder into a suitable location
+2. Navigate to the gralog-fx.jar file
 
 This can be run by double clicking.
 
